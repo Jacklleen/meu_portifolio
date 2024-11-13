@@ -2,8 +2,8 @@
 
 :root {
     --cor-pricipal: black;
-    --cor-secudaria: rgb(25, 25, 165);
-    --cor-destaque: rgb(25, 25, 235);
+    --cor-secudaria: rgb(33, 33, 252);
+    --cor-destaque: rgb(17, 17, 120);
 }
 
 body {
