@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
 
 :root {
-    --cor-pricipal: rgb(0, 0, 209);
-    --cor-secudaria: rgb(17, 17, 120);
+    --cor-pricipal: rgb(17, 17, 120);
+    --cor-secudaria: rgb(0, 0, 209);
     --cor-destaque: black;
 }
 
